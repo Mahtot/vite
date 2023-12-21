@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <>
-    {import.meta.env.VITE_API}
+    {import.meta.env.APP_DBNAME}
       This is from Header this one is added
 
       why do I hate my life?
