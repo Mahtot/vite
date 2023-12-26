@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   
-  base: "/vite/",
+  base: "/",
   clearScreen: false,
   envPrefix: "APP_",
   plugins: [react()],
